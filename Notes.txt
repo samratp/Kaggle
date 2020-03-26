@@ -1,0 +1,21 @@
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/22089
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/21932
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20978
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20811
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20773
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20753
+
+
+
+https://www.kaggle.com/shahnawazakhtar/14th-place-private-lb-script
+
+
+https://github.com/diefimov/santander_2016
+https://github.com/BoulderDataScience/kaggle-santander
+
+44th Place Solution - https://github.com/toshi-k/kaggle-santander-customer-satisfaction
+
+
+---
+
+https://github.com/arc144/Kaggle-Santander-Value-Prediction-Challenge/blob/master/leaky_abuse_kernel.ipynb
